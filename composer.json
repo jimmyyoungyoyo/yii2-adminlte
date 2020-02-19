@@ -1,0 +1,15 @@
+{
+    "name": "jimmyyoung/yii-adminlte",
+    "description": "adminLTE3 for yii2",
+    "type": "yii2-extension",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {
+        "almasaeed2010/adminlte": "~3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "jimmyyoung\\adminlte\\": "src/"
+        }
+    }
+}
