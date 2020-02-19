@@ -3,7 +3,7 @@
     "description": "adminLTE3 for yii2",
     "type": "yii2-extension",
     "license": "MIT",
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "almasaeed2010/adminlte": "~3.0"
     },
