@@ -5,7 +5,7 @@ This is a template based on adminLTE3。
 
 # Install 
 ```
-    composer require " jimmyyoungyoyo/yii2-adminlte "
+    composer require "jimmyyoungyoyo/yii2-adminlte "
 ```
 
 # License
