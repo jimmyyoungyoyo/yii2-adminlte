@@ -7,11 +7,6 @@ class MenuGenerate extends Widget
 {
     public $menu;
 
-    public function init($menu = [])
-    {
-        $this->menu = $menu;
-    }
-
     public function run()
     {
         $template = '<ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">';
