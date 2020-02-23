@@ -1,7 +1,7 @@
 <?php
 use yii\helpers\Html;
 
-jimmyyoung\adminlte\assets\AppAsset::register($this);
+jimmyyoungyoyo\adminlte\assets\AppAsset::register($this);
 
 $directoryAsset = Yii::$app->assetManager->getPublishedUrl('@vendor/almasaeed2010/adminlte');
 
