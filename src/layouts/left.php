@@ -1,7 +1,5 @@
 <?php 
 use jimmyyoungyoyo\adminlte\component\MenuGenerate;
-use mdm\admin\components\MenuHelper;
-use yii\base\ArrayHelpr;
 
 ?>
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
